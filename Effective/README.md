@@ -1,6 +1,6 @@
 # <이펙티브> 패턴
 
-<img src="https://github.com/WegraLee/Writing-IT-Books/blob/master/3%20Minutes/3_minutes_deep_learning.png?raw=true" width="300" align="right"></img>
+<img src="https://github.com/WegraLee/Writing-IT-Books/blob/master/Effective/effective_pattern.png" width="300" align="right"></img>
 
 > “프로그래밍 언어/라이브러리의 고인물 개발자로 거듭나는 비급”
 
